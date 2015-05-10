@@ -1,0 +1,7 @@
+This shows some examples of clients that interface with the "BigBob" robot
+from Jenny Owen's tutorial.
+
+It serves as an illustration of how to write clients in :
+  * python (C bindings)
+  * python (C++ bindings)
+  * matlab (via C++ MEX files)
